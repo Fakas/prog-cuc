@@ -1,0 +1,30 @@
+C:\Users\vargag\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023)\2022.09.19\Library\Library\Library\bin\Debug\net6.0\Library.exe
+C:\Users\vargag\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023)\2022.09.19\Library\Library\Library\bin\Debug\net6.0\Library.deps.json
+C:\Users\vargag\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023)\2022.09.19\Library\Library\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+C:\Users\vargag\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023)\2022.09.19\Library\Library\Library\bin\Debug\net6.0\Library.dll
+C:\Users\vargag\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023)\2022.09.19\Library\Library\Library\bin\Debug\net6.0\Library.pdb
+C:\Users\vargag\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023)\2022.09.19\Library\Library\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\vargag\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023)\2022.09.19\Library\Library\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vargag\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023)\2022.09.19\Library\Library\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\vargag\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023)\2022.09.19\Library\Library\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\vargag\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023)\2022.09.19\Library\Library\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\vargag\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023)\2022.09.19\Library\Library\Library\obj\Debug\net6.0\Library.dll
+C:\Users\vargag\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023)\2022.09.19\Library\Library\Library\obj\Debug\net6.0\refint\Library.dll
+C:\Users\vargag\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023)\2022.09.19\Library\Library\Library\obj\Debug\net6.0\Library.pdb
+C:\Users\vargag\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023)\2022.09.19\Library\Library\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+C:\Users\vargag\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023)\2022.09.19\Library\Library\Library\obj\Debug\net6.0\ref\Library.dll
+C:\Users\petig\Desktop\Library\Library\bin\Debug\net6.0\Library.exe
+C:\Users\petig\Desktop\Library\Library\bin\Debug\net6.0\Library.deps.json
+C:\Users\petig\Desktop\Library\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+C:\Users\petig\Desktop\Library\Library\bin\Debug\net6.0\Library.dll
+C:\Users\petig\Desktop\Library\Library\bin\Debug\net6.0\Library.pdb
+C:\Users\petig\Desktop\Library\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\petig\Desktop\Library\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petig\Desktop\Library\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\petig\Desktop\Library\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\petig\Desktop\Library\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\petig\Desktop\Library\Library\obj\Debug\net6.0\Library.dll
+C:\Users\petig\Desktop\Library\Library\obj\Debug\net6.0\refint\Library.dll
+C:\Users\petig\Desktop\Library\Library\obj\Debug\net6.0\Library.pdb
+C:\Users\petig\Desktop\Library\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+C:\Users\petig\Desktop\Library\Library\obj\Debug\net6.0\ref\Library.dll
